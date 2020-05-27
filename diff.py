@@ -52,5 +52,4 @@ for line in delta:
 
 
 
-print(colored('Hello, World!', 'green', 'on_red')) 
 
